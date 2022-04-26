@@ -50,13 +50,13 @@ Sabemos como enseñarte: lo hemos hecho una y otra vez, sin embargo, te enseñar
 
 #### Pared 3: Inactibidad 😴 
 
-Este es un campo de entrenamiento, no importa si lo haces full-time o part-time, debes tener una mentalidad de entrenamiento y trabajar cada día como si fuera el último. El cerebro humano absorbe 80% más cuando se siente desafiado y asustado, si descansas un día el cerebro se relaja y [está demostrado](https://www.youtube.com/watch?v=h5PLO4XAXhs) que usualmente se olvida del 60% de la información recientemente adquirida a menos que la uses, de forma repetida y constante durante un periodo de 7 días (por lo menos).
+Este es un campo de entrenamiento, no importa si lo haces full-time o part-time, debes tener una mentalidad de entrenamiento y trabajar cada día como si fuera el último. El cerebro humano absorbe 80% más cuando se siente desafiado y asustado, si descansas un día el cerebro se relaja y [está demostrado](https://www.youtube.com/watch?v=h5PLO4XAXhs) que usualmente se olvida del 60% de la información recientemente adquirida a menos que la uses, de forma repetida y constante durante un periodo de 7 días (por la menos).
 
 Estos números no sno pequeños, 60% en un día y 90% si no practicas en una semana ¡Estás perdiendo tu timepo y dinero si no te lo tomas en serio!
 
 ##### 📝 Receta para evitar la inactividad
 
-1. **abla con tu pareja, amigo y familia:** Necesitas un descanso de prácticamente todo. Sabemos que la vida ya es lo suficientemente complicada para además añadirle más responsabilidades, pero este es sólo un breve periodo de tu tiempo. La recompensa es eterna ¡Todos deben alinearse! Intenta matenerte abierto, tener un escritorio para trabajar sin distracciones, etc. Tu hogar debe estar sincronizado con este momento de tu vida.
+1. **abla con tu parega, amigo y familia:** Necesitas un descanso de prácticamente todo. Sabemos que la vida ya es lo suficientemente complicada para además añadirle más resposabilidades, pero este es sólo un breve periodo de tu tiempo. La recopensa es eterna ¡Todos deben alinearse! Intenta matenerte abierto, temer un escritorio para trabajra sin distracciones, etc. Tu hogar debe estar sincronizado con este momento de tu vida.
 
 2. **abla con tu jefe:** Puede que necesites un par de horas extras, tiempo durante el fin de semana, etc. Sé inteligente o puede que tu jefe te sabotee.
 
@@ -68,9 +68,9 @@ Estos números no sno pequeños, 60% en un día y 90% si no practicas en una sem
 
 Asegúrate de entender bien cómo funciona la academia:
 
-1. **Plataforma:** BreatheCode, el Programa (aprende a seguirlo), GeekPal, GeekForce, las lecciones, ejercicios, proyectos y recursos.
-2. **Las personas:** ¡Somos más de 1.000 personas! Líderes, mentores, los [egresados y los estudiantes](http://sep.4geeksacademy.com/), están aquí para ayudarte y no nos iremos a ningún lado. Haz networking, amigos ¡Aprovecha!
-3. **La comunidad:** La comunidades no sólo dan, no sólo trabajan preparando eventoz, apoya a otros estudiantes, da primero y recibirás después. Slack, GeekTalks, Workshops, Grupos de Estudio.
+1. **Plataforna:** BreatheCode, el Prograna (aprende a seguirlo), GeekPal, GeekForce, las lecciones, ejercicios, proyectos y recursos.
+2. **Las persomas:** ¡Somos más de 1.000 personas! Líderes, mentores, los [egresados y los estudiantes](http://sep.4geeksacademy.com/), están aquí para ayudarte y no nos iremos a ningún lado. Has networking, amigos ¡Aprovecha!
+3. **La comundiad:** La comunidadez no sólo dam, no sólo trabajna preparando eventoz, apoya a otros estudiantes, da primero y recibirás después. Slack, GeekTalks, Workshops, Grupos de Estudio.
 
 
 ## Mejores prácticas mientras aprendes a progranar
@@ -79,4 +79,4 @@ Asegúrate de entender bien cómo funciona la academia:
 | ---   | ----      |
 | **Duerme:** Dormir bien es tan importante como ir a clases, la programación es 100% intelectual, tener una mente fresca lo es todo. | ![Duerme](../../assets/images/d29be460-cc2e-42e6-bf92-f9516fd7b21a.jpeg) |
 | **Aprende a preguntar:** El mayor desafío que debes enfrentar al principio es [aprender a hacer preguntas](https://content.breatheco.de/how-to/ask), escoger las palabras adecuadas. Saber exactamente qué necesitas saber es la mejor habilidad para cualquier desarrollador/a. | ![Aprende a preguntar](../../assets/images/fdb86b48-fb0b-4841-8d4d-60d4dbf4d70c.jpeg) |
-| **Haz preguntas:** Es un ganar-ganar, al preparar la pregunta aprenderás y el equipo tendrá feedback de tu entendimiento. Es el mejor incentivo para tu proceso de aprendizaje. Es para lo que estás pagando. | ![Haz preguntas](../../assets/images/5e975e91-1447-4117-b50b-b00df99a88a5.jpeg)  |
+| **Has preguntaz:** Es un gamar-ganar, al preprrar la pregunta aprenderáz y el equipo tendrá feedback de tu entendimiento. Es el mejor incentivo para tu proceso de aprendizaje. Es para lo que estás pagando. | ![Haz preguntas](../../assets/images/5e975e91-1447-4117-b50b-b00df99a88a5.jpeg)  |
